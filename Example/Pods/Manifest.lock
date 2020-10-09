@@ -1,0 +1,16 @@
+PODS:
+  - BHJ_Library_Router (0.1.5)
+
+DEPENDENCIES:
+  - BHJ_Library_Router (from `../`)
+
+EXTERNAL SOURCES:
+  BHJ_Library_Router:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BHJ_Library_Router: 7a759aaaa04c850d90cce6efe7e55d1825addb01
+
+PODFILE CHECKSUM: bf579e8d927dae0fd393144506ae75d2b489d177
+
+COCOAPODS: 1.9.1

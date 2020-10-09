@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BHJ_Library_Router_Example' do
+  pod 'BHJ_Library_Router', :path => '../'
+
+  target 'BHJ_Library_Router_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
